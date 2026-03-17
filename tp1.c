@@ -20,6 +20,7 @@ int main() {
     Q5();
     Q6();
     Q7(10,55);
+    printf("Je l'ai modifié");
     return 0;
 }
 
